@@ -1,8 +1,0 @@
-[submodule "Assignments/20-1"]
-	path = Assignments/20-1
-	url = https://github.com/moovinzoo/20-1.git
-    branch = backup_211204
-[submodule "20-1"]
-	path = 20-1
-	url = http://github.com/moovinzoo/20-1.git
-	branch = backup_211204
