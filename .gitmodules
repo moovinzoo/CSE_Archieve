@@ -11,3 +11,6 @@
 [submodule "Projects/xcorps-eyetracking"]
 	path = Projects/xcorps-eyetracking
 	url = https://github.com/moovinzoo/xcorps-eyetracking
+[submodule "Assignments/20-2/Database/DB-2team"]
+	path = Assignments/20-2/Database/DB-2team
+	url = https://github.com/Do-iM/DB-2team
