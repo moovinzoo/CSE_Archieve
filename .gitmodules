@@ -8,9 +8,6 @@
 [submodule "Projects/swpp2020-team17"]
 	path = Projects/swpp2020-team17
 	url = https://github.com/swsnu/swpp2020-team17
-[submodule "Projects/DB-2team"]
-	path = Projects/DB-2team
-	url = https://github.com/Do-iM/DB-2team
 [submodule "Projects/xcorps-eyetracking"]
 	path = Projects/xcorps-eyetracking
 	url = https://github.com/moovinzoo/xcorps-eyetracking
