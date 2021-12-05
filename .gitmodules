@@ -2,6 +2,3 @@
 	path = Assignments/20-1
 	url = http://github.com/moovinzoo/20-1.git
 	branch = backup_211204
-[submodule "Assignments/20-2/Software/Report/swpp2020-team17.wiki"]
-	path = Assignments/20-2/Software/Report/swpp2020-team17.wiki
-	url = https://github.com/swsnu/swpp2020-team17.wiki.git
